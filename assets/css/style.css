@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+    }
+
+body {
+    font-size: 30px;
+    line-height: 32px;
+    color: #777777;
+    background-color: whitesmoke;
+    }
+
+  /* Classes */
+  div.container{
+    width: 90%;
+    background: white;
+    margin: 0 auto 0 auto;
+    /* margin-top: 50px; */
+    /* padding: 20px; */
+    }
+
+  /* #timeBlockContainerTableBody{
+    margin: 0 top;
+  } */
+
+  #headingContainer{
+    margin-top: 50px;
+    padding-top: 20px;
+  }
+
+  .table td, .table th{
+    white-space: nowrap;
+  }
+  tbody td.b{
+background-color: brown;
+    padding-top: auto;
+    padding-bottom: auto;
+  
+  }

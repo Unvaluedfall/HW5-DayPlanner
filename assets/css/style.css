@@ -30,9 +30,9 @@ body {
   .table td, .table th{
     white-space: nowrap;
   }
-  tbody td.b{
-background-color: brown;
-    padding-top: auto;
-    padding-bottom: auto;
+  table.table tbody tr td input.b {
+/* background-color: brown; */
+    padding: 1px;
+    
   
   }

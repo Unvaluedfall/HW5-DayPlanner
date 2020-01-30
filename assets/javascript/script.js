@@ -12,7 +12,7 @@ var times = [8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
 
 var now = moment().format()
 console.log(now)
-var TheHour = moment(11, "hh").hour()
+var TheHour = moment().hour()
 console.log(TheHour)
 
 
